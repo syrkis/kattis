@@ -1,2 +1,7 @@
+*.txt
+*.*~
+*.zip
 *.in
+*.ans
+data/
 .DS_Store
